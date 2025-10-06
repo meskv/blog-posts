@@ -1,14 +1,14 @@
 ---
 title: "Python for Absolute Beginners: A Step-by-Step Guide"
-date: "2025-10-06T19:06:13.392Z"
-author: "Suman"
+date: Tue Oct 07 2025 00:36:13 GMT+0530 (India Standard Time)
+author: "Suman update "
 status: "published"
 excerpt: "Learn Python from scratch with this beginner-friendly guide. Understand the basics, write your first programs, and get hands-on coding experience."
 tags: ["Python","Programming","Beginner","Tutorial","Coding"]
 categories: ["Python","Programming Tutorials","Tech"]
 coverImageUrl: "https://example.com/images/python-beginners-cover.jpg"
 coverImageCredit: "Photo by John Doe on Unsplash"
-publishedAt: Tue Oct 07 2025 00:36:13 GMT+0530 (India Standard Time)
+publishedAt: Mon Oct 06 2025 05:30:00 GMT+0530 (India Standard Time)
 ---
 
 Python is one of the most popular programming languages today. It's beginner-friendly, versatile, and widely used in web development, data science, automation, and more. In this tutorial, we'll cover the essentials to get you started.
