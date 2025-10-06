@@ -6,8 +6,8 @@ status: "published"
 excerpt: "Discover the key trends shaping web development in 2025, from AI-driven tools to modern frameworks."
 tags: ["Web Development","JavaScript","Trends","Frontend","Backend"]
 categories: ["Tech","Programming"]
-coverImageUrl: ""
-coverImageCredit: ""
+coverImageUrl: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg"
+coverImageCredit: "Photo by cottonbro studio: <a>https://www.pexels.com/photo/a-woman-looking-afar-5473955/</a>"
 publishedAt: Mon Oct 06 2025 10:41:43 GMT+0530 (India Standard Time)
 ---
 
