@@ -1,12 +1,12 @@
 ---
 title: "Exploring the Wonders of Natur 2"
-date: "2025-10-05T03:15:23.639Z"
+date: Sun Oct 05 2025 08:45:23 GMT+0530 (India Standard Time)
 author: ""
-status: "draft"
+status: "published"
 excerpt: "A journey through the breathtaking landscapes and diverse ecosystems that our planet offers."
 tags: ["Nature","Adventure","Travel","Photography"]
 categories: []
-coverImageUrl: ""
+coverImageUrl: "https://images.pexels.com/photos/32216427/pexels-photo-32216427.jpeg"
 coverImageCredit: ""
 publishedAt: ""
 ---
