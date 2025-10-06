@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Productivity Tools for Developers in 2025"
 date: Mon Oct 06 2025 12:05:04 GMT+0530 (India Standard Time)
-author: "Admin"
+author: "Admin Remote"
 status: "published"
 excerpt: "Boost your productivity in 2025 with these essential tools for developers."
 tags: ["Productivity","Developer Tools","Coding","2025","Workflow"]
