@@ -1,6 +1,6 @@
 ---
 title: "Exploring the Wonders of Natur 3"
-date: "2025-10-05T03:20:08.216Z"
+date: Sun Oct 05 2025 08:50:08 GMT+0530 (India Standard Time)
 author: ""
 status: "published"
 excerpt: "A journey through the breathtaking landscapes and diverse ecosystems that our planet offers."
