@@ -6,8 +6,8 @@ status: "published"
 excerpt: "Learn Python from scratch with this beginner-friendly guide. Understand the basics, write your first programs, and get hands-on coding experience."
 tags: ["Python","Programming","Beginner","Tutorial","Coding"]
 categories: ["Python","Programming Tutorials","Tech"]
-coverImageUrl: "https://images.pexels.com/photos/1181672/pexels-photo-1181672.jpeg"
-coverImageCredit: "Photo by Christina Morillo: https://www.pexels.com/photo/woman-reading-book-1181672/"
+coverImageUrl: "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg"
+coverImageCredit: "Photo by Christina Morillo: https://www.pexels.com/photo/python-book-1181671/"
 publishedAt: Tue Oct 07 2025 05:30:00 GMT+0530 (India Standard Time)
 ---
 
