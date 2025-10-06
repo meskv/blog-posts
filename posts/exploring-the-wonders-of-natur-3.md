@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Wonders of Natur 3"
 date: Sun Oct 05 2025 08:50:08 GMT+0530 (India Standard Time)
-author: "Suman"
+author: "Admin"
 status: "published"
 excerpt: "A journey through the breathtaking landscapes and diverse ecosystems that our planet offers."
 tags: ["Nature","Adventure","Travel","Photography"]
