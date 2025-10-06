@@ -1,14 +1,14 @@
 ---
 title: "Exploring the Wonders of Nature"
 date: Sun Oct 05 2025 08:31:06 GMT+0530 (India Standard Time)
-author: ""
+author: "Admin"
 status: "published"
 excerpt: "A journey through the breathtaking landscapes and diverse ecosystems that our planet offers."
 tags: ["Nature","Adventure","Travel","Photography"]
 categories: []
 coverImageUrl: "https://images.pexels.com/photos/32216427/pexels-photo-32216427.jpeg"
 coverImageCredit: ""
-publishedAt: ""
+publishedAt: Mon Oct 06 2025 05:30:00 GMT+0530 (India Standard Time)
 ---
 
 <h2>Introduction</h2>
