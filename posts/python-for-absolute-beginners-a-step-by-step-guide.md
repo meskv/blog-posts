@@ -1,14 +1,14 @@
 ---
 title: "Python for Absolute Beginners: A Step-by-Step Guide"
 date: Tue Oct 07 2025 00:36:13 GMT+0530 (India Standard Time)
-author: "Suman update "
+author: "Suman"
 status: "published"
 excerpt: "Learn Python from scratch with this beginner-friendly guide. Understand the basics, write your first programs, and get hands-on coding experience."
 tags: ["Python","Programming","Beginner","Tutorial","Coding"]
 categories: ["Python","Programming Tutorials","Tech"]
 coverImageUrl: "https://example.com/images/python-beginners-cover.jpg"
 coverImageCredit: "Photo by John Doe on Unsplash"
-publishedAt: Mon Oct 06 2025 05:30:00 GMT+0530 (India Standard Time)
+publishedAt: Tue Oct 07 2025 05:30:00 GMT+0530 (India Standard Time)
 ---
 
 Python is one of the most popular programming languages today. It's beginner-friendly, versatile, and widely used in web development, data science, automation, and more. In this tutorial, we'll cover the essentials to get you started.
@@ -27,15 +27,20 @@ Python is one of the most popular programming languages today. It's beginner-fri
 3. Verify installation by running:
    ```bash
    python --version
+	 ```
+
 Your First Python Program
 Let's write a simple program to print "Hello, World!":
-
+```python
 print("Hello, World!")
-Save this in a file named hello.py and run:
+```
 
+Save this in a file named hello.py and run:
 python hello.py
 Basic Concepts
 Variables and Data Types
+
+```python
 name = "Alice"
 age = 25
 is_student = True
@@ -47,11 +52,12 @@ else:
 Loops
 for i in range(5):
     print(i)
-Next Steps
+```
+		
+## Next Steps
 Explore Python libraries: requests, pandas, matplotlib
 
 Build small projects like a calculator or a to-do app
-
 Practice coding challenges on platforms like LeetCode or HackerRank
 
 Python is a journey. Start small, practice consistently, and soon you'll be building amazing projects!
