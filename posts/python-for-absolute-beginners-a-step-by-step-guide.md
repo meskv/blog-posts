@@ -25,9 +25,9 @@ Python is one of the most popular programming languages today. It's beginner-fri
 1. Download Python from the [official website](https://www.python.org/downloads/).
 2. Run the installer and make sure to check "Add Python to PATH".
 3. Verify installation by running:
-   ```bash
-   python --version
-	 ```
+```bash
+python --version
+```
 
 Your First Python Program
 Let's write a simple program to print "Hello, World!":
