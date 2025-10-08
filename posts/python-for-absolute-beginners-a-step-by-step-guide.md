@@ -96,11 +96,11 @@ print(fruits)
 # tuple
 coordinates = (10, 20)
 
-# Dictionary
+# dictionary
 student = {"name": "Alice", "age": 25, "grade": "A"}
 print(student["name"])
 
-#Sets
+# Sets
 unique_numbers = {1, 2, 3, 3, 2}
 print(unique_numbers)  # Output: {1, 2, 3}
 ```
