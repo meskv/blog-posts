@@ -26,12 +26,13 @@ VS Code remains a favorite IDE, and its ecosystem of extensions is a game-change
 
 ## 2. AI-Powered Code Assistants
 
-
 AI is transforming development. Tools like **GitHub Copilot** and **ChatGPT** integrated directly into your IDE can suggest code, generate boilerplate, and even debug faster, letting you focus on logic instead of syntax.
 
 
 
 ## 3. Task & Project Management
+![Tasks and Project Management Image](https://images.pexels.com/photos/1181615/pexels-photo-1181615.jpeg "Photo by Christina Morillo: https://www.pexels.com/photo/two-women-having-a-meeting-inside-glass-panel-office-1181615/ | w=500 h=300")
+
 
 Keeping track of tasks is crucial. Platforms like **Jira**, **Trello**, and **Notion** allow developers to organize sprints, prioritize work, and maintain a clear overview of project progress.
 
