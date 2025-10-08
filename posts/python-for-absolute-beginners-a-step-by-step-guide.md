@@ -95,11 +95,15 @@ print(fruits)
 ```python
 # tuple
 coordinates = (10, 20)
+```
 
+```python
 # dictionary
 student = {"name": "Alice", "age": 25, "grade": "A"}
 print(student["name"])
+```
 
+```python
 # Sets
 unique_numbers = {1, 2, 3, 3, 2}
 print(unique_numbers)  # Output: {1, 2, 3}
