@@ -18,7 +18,7 @@ Being a productive developer isn’t just about writing code—it’s about work
 
 ## 1. Visual Studio Code Extensions
 
-![VS Code Extensions](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg "Photo by ThisisEngineering on Pexels: https://www.pexels.com/photo/546819/")
+![VS Code Extensions](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg "Credit: ThisisEngineering on Pexels")
 
 VS Code remains a favorite IDE, and its ecosystem of extensions is a game-changer. Must-have extensions include **GitLens** for advanced Git insights, **Prettier** for consistent code formatting, and **Live Share** for real-time collaboration with teammates.
 
