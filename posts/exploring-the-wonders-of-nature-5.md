@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Wonders of Nature 5"
 date: "2025-10-11T04:32:54.428Z"
-author: "Admin Update"
+author: "Admin"
 status: "published"
 excerpt: "A journey through the breathtaking landscapes and diverse ecosystems that our planet offers."
 tags: ["Nature","Adventure","Travel","Photography"]
