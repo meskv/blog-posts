@@ -1,14 +1,14 @@
 ---
 title: "The Future of Web Development: Trends to Watch in 2025"
-date: Mon Oct 06 2025 10:41:43 GMT+0530 (India Standard Time)
-author: ""
+date: "2025-10-06T05:11:43.969Z"
+author: "Suman"
 status: "published"
 excerpt: "Discover the key trends shaping web development in 2025, from AI-driven tools to modern frameworks."
 tags: ["Web Development","JavaScript","Trends","Frontend","Backend"]
 categories: ["Tech","Programming"]
 coverImageUrl: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg"
-coverImageCredit: ""
-publishedAt: ""
+coverImageCredit: "Photo by cottonbro studio: https://www.pexels.com/photo/a-woman-looking-afar-5473955/"
+publishedAt: Mon Oct 06 2025 05:30:00 GMT+0530 (India Standard Time)
 ---
 
 # The Future of Web Development: Trends to Watch in 2025
@@ -32,6 +32,3 @@ With growing cyber threats, web developers need to prioritize security from day 
 
 ## Conclusion
 The web development landscape in 2025 will be driven by AI, performance optimizations, and modern architecture. Staying updated with these trends is essential for every developer.
-
-Just Updating some stuff here
-Now working
