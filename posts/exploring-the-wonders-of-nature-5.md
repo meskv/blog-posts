@@ -1,14 +1,14 @@
 ---
 title: "Exploring the Wonders of Nature 5"
-date: "2025-10-11T04:32:54.419Z"
-author: ""
+date: "2025-10-11T04:32:54.428Z"
+author: "Admin Update"
 status: "published"
 excerpt: "A journey through the breathtaking landscapes and diverse ecosystems that our planet offers."
 tags: ["Nature","Adventure","Travel","Photography"]
 categories: []
 coverImageUrl: "https://images.pexels.com/photos/32216427/pexels-photo-32216427.jpeg"
 coverImageCredit: ""
-publishedAt: ""
+publishedAt: Sat Oct 11 2025 05:30:00 GMT+0530 (India Standard Time)
 ---
 
 <h2>Introduction</h2>
